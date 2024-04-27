@@ -1,4 +1,3 @@
-//! Copyright [2024] <Caio Cesar Rodrigues de Aquino>
 #ifndef STRUCTURES_LINKED_LIST_H
 #define STRUCTURES_LINKED_LIST_H
 

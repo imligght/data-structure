@@ -1,4 +1,3 @@
-// Copyright [2022] <COLOQUE SEU NOME AQUI...>
 #include "./array_stack.h"
 
 bool verificaChaves(std::string trecho_programa) {

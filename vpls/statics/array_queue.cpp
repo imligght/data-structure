@@ -1,4 +1,3 @@
-// Copyright [2018] Caio César Rodrigues de Aquino
 #ifndef STRUCTURES_ARRAY_QUEUE_H
 #define STRUCTURES_ARRAY_QUEUE_H
 

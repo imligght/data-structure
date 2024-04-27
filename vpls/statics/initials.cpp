@@ -1,5 +1,3 @@
-// Copyright [2022] <COLOQUE SEU NOME AQUI...>
-
 /*
 (1) o cálculo do maior valor; exemplo:
 vetor de entrada: [10, 50, 30, 70, 20]

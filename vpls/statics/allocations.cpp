@@ -1,4 +1,3 @@
-// Copyright [2022] <COLOQUE SEU NOME AQUI...>
 #include <string>
 
 

@@ -1,5 +1,3 @@
-// Copyright [2023] Caio César Rodrigues de Aquino
-
 /*
     *** Importante ***
 

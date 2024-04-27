@@ -1,5 +1,3 @@
-// Copyright 2024 Caio Cesar Rodrigues de Aquino
-
 #include <cstdint>
 #include <stdexcept>
 

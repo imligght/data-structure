@@ -1,5 +1,3 @@
-// Copyright 2024 Caio César Rodrigues de Aquino
-
 #ifndef STRUCTURES_ARRAY_LIST_H
 #define STRUCTURES_ARRAY_LIST_H
 
