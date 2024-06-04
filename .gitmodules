@@ -1,0 +1,3 @@
+[submodule "projects/ine5408-projects"]
+	path = projects/ine5408-projects
+	url = git@github.com:Luuls/ine5408-projects.git
